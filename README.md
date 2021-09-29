@@ -8,7 +8,10 @@ i coded it using
   <li>HTML > Bootstrap > grid system and components  </li>
   <li>HTML > javascript events  </li>
     <li>fontawesome </li>
-  # i also used mobile first workflow 
-# its fully responsive fit all screens
 
 </ul>
+ <h1> # i also used mobile first workflow 
+  <br>
+ <h2># its fully responsive fit all screens
+![mobile screenshot](./Images/con-mobile.png)
+![Desktop screenshot](./Images/con-desktop.png)
