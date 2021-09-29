@@ -14,6 +14,5 @@ i coded it using
   <br>
  <h2># its fully responsive fit all screens
    <br>
-![mobile screenshot](https://github.com/yasmin203/construction/blob/constructionTemplate/Images/con-mobile.png)
-   <br>
-![Desktop screenshot](https://github.com/yasmin203/construction/blob/constructionTemplate/Images/con-desktop.png)
+![mobile screenshot](https://github.com/yasmin203/construction/blob/master/Images/con-mobile.png)
+![Desktop screenshot](https://github.com/yasmin203/construction/blob/master/Images/con-desktop.png)
