@@ -56,6 +56,7 @@ nav .navbar-brand p {
 .nav-link {
   font-size: 0.8rem;
 }
+
 /* section header */
 #header .card {
   background-image: linear-gradient(rgba(0, 0, 0, 0.479), rgba(0, 0, 0, 0.425)),
@@ -137,10 +138,11 @@ section services  */
   background-position: center center;
   background-repeat: no-repeat;
 }
-/* #made .gallary{
-  padding-left: 100px;
-  padding-right: 100px;
-} */
+#made .img-fluid{
+  width: 100% ;
+  max-width: none;
+}
+
 .btn-navigatores:hover {
   background-color: rgba(0, 0, 0, 0.692);
   border-radius: 15px;
