@@ -60,7 +60,7 @@ nav .navbar-brand p {
 /* section header */
 #header .card {
   background-image: linear-gradient(rgba(0, 0, 0, 0.479), rgba(0, 0, 0, 0.425)),
-    url(../images/banner.jpg);
+    url(../Images/banner.jpg);
   height: 90vh;
   background-size: cover;
   background-position: center center;
